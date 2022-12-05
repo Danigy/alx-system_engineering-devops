@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src=https://readme-typing-svg.demolab.com/?lines=Alx+System+Engineering+Devops;Working+with+the+shell,+commands,+and+scripts)](https://git.io/typing-svg>
+  <img src=https://readme-typing-svg.demolab.com/?lines=Alx+System+Engineering+DevOps;Working+with+the+shell,+commands,+and+scripts)](https://git.io/typing-svg>
 </p>
  
 >Learning bash, bash scripting ... and much more. Learning at ALX Africa is going to be icing on the cake!!. I ❤️ it ... 
