@@ -10,6 +10,23 @@
 </p>
 <br />
 
+
+<p align="center">
+
+<a href="https://github.com/Danigy/alx-system_engineering-devops/blob/master/LICENCE">
+ <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Danigy is released under the MIT license." />
+  </a>
+  
+   <a href="https://img.shields.io/github/stars/Danigy/alx-system_engineering-devops?style=social">
+  <img src="https://img.shields.io/github/stars/Danigy/alx-system_engineering-devops?style=social" alt="Stars" />
+ </a>
+
+<a href="https://komarev.com/ghpvc/?username=Danigy&color=green">
+  <img src="https://komarev.com/ghpvc/?username=Danigy&color=green" />
+ </a>
+</p>
+
+
 <p align="center">
   <h2 align="center">🚀Alx Software Engineering💥</h2> 
 </p>
