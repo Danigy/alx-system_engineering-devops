@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n+2 | cut -f1 | sort | uniq -c | sort -nr | rev |  cut --delimiter=  -f1 | rev | head --lines=11
+tail -n +2 | sort | cut -f1 | uniq -c | sort -g -r | head -11 | tr -s " " | cut -d" " -f3
