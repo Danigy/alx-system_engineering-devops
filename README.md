@@ -1,3 +1,5 @@
+<center>
+ 
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
 <br />
@@ -5,7 +7,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Danigy./blob/master/)
 
 <br />
-
+</center>
 
 
  <center><h1 style="text-align: center;">💥Alx System Engineering Devops💥</h1></center>
