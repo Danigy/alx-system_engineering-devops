@@ -1,22 +1,25 @@
-<center>
- 
-![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+<!-- markdownlint-disable MD033 MD041 -->
 
+<p align="center">
+  <img src=https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png>
+</p>
 <br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=Danigy./blob/master/)
-
+<p align="center">
+  <img src=https://visitor-badge.glitch.me/badge?page_id=Danigy./blob/master/>
+</p>
 <br />
-</center>
+
+<p align="center">
+  <h1 align="center">💥Alx System Engineering Devops💥</h1> 
+</p>
 
 
- <center><h1 style="text-align: center;">💥Alx System Engineering Devops💥</h1></center>
-# alx-system_engineering-devops💥
+<p align="center">
+  <img src=https://readme-typing-svg.demolab.com/?lines=Alx+System+Engineering+Devops;Working+with+the+shell,+commands,+and+scripts)](https://git.io/typing-svg>
+</p>
  
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Alx+System+Engineering+Devops;Working+with+the+shell,+commands,+and+scripts)](https://git.io/typing-svg)
->Learning bash, bash scripting ... and much more. Learning at ALX Africa is going to be icing on the cake!!. I like it ... 
+>Learning bash, bash scripting ... and much more. Learning at ALX Africa is going to be icing on the cake!!. I ❤️ it ... 
 
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=22&color=1D6FF7&background=1E73FF00&vCenter=true&multiline=true&width=350&lines=%F0%9F%9B%A0+Top+Technologies)](https://git.io/typing-svg)  
