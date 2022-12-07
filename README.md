@@ -6,7 +6,7 @@
 <br />
 
 <p align="center">
-  <img src=https://visitor-badge.glitch.me/badge?page_id=Danigy./blob/master/>
+  <img src=https://visitor-badge.glitch.me/badge?page_id=Danigy/alx-system_engineering-devops/>
 </p>
 <br />
 
